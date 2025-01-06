@@ -20,3 +20,5 @@
 // 30
 // 110
 //
+//es un procedimiento debido a que no retorna un valor, los dos de aqui 
+//son procedimientos porque ninguno de los dos retorna un valor a quien lo llama
